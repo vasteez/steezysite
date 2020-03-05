@@ -1,0 +1,14 @@
+/** Import Bootstrap functions */
+@import "~bootstrap/scss/functions";
+
+$font-stack: 'Rubik', sans-serif;
+
+$theme-colors: (
+  primary: #525ddc
+);
+$darkgrey: #212125;
+$red: #DF575C;
+
+/** Bootstrap navbar fix (https://git.io/fADqW) */
+$navbar-dark-toggler-icon-bg: none;
+$navbar-light-toggler-icon-bg: none;
